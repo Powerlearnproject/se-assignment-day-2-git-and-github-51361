@@ -26,6 +26,7 @@ commits on github repository helps to edit and make save changes made on existin
 * open an existing repositories.
 * on the README file click edit.
 * after making changes, commit changes to make comits.
+* 
   
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
